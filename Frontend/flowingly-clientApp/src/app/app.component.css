@@ -1,0 +1,16 @@
+.align-to-center{
+  display: flex;
+  justify-content: center;
+}
+
+.padding-top{
+  padding-top: 10%;
+}
+
+.padding-top-header{
+  padding-top: 1%;
+}
+
+.left-adjust{
+  padding-left: 30%;
+}
