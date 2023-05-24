@@ -6,13 +6,17 @@
 	a backend solution developed in ASP.Net(Core) 6.
 
 *	Since the node modules are not being shared with the repository. Follow the steps to run the
-	client side application. //In order to avoid version mismatch
+	client side application.
 	
 	*	In terminal, redirect to the Client Application directory and execute 
-	   npm i.
+
+	  	npm i --force.  //In order to avoid version mismatch
+
 
 	*	To serve the application, we can use the CLI command
+
 	   	ng serve -o
+
 	   	This will open up the client application at localHost:4200(Subjected to change).
 
 
