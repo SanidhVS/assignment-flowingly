@@ -6,7 +6,7 @@
 	a backend solution developed in ASP.Net(Core) 6.
 
 *	Since the node modules are not being shared with the repository. Follow the steps to run the
-	client side application.
+	client side application. //In order to avoid version mismatch
 	
 	*	In terminal, redirect to the Client Application directory and execute 
 	   npm i.
